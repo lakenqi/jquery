@@ -8,8 +8,8 @@
 		$.dragUtil(option);</br>
 	});</br>
 	即可完成功能。</br>
-*3.参数列表如下，或在项目中引入 $.dragUtil()，可在控制台看到日志打印参数。
- var option = {
+*3.参数列表如下，或在项目中引入 $.dragUtil()，可在控制台看到日志打印参数。</br>
+ var option = {</br>
 					containerClassName: '可拖拽区域的类名，只能是类名，必填，格式为‘.className’',  //only for className</br>
 					sourceArea: {</br>
 						name: '源区域的idName/className，必填', //drag elemets source area for className idName</br>
