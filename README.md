@@ -33,5 +33,6 @@
 						mousemoveFn: "function() {鼠标拖动时的回调函数，选填}",</br>
 						mouseupFn: "function() {鼠标放开时的回调函数，选填}",</br>
 					},</br>
+					isLog : '是否输出内部日志，默认true',</br>
 				};</br>
 */
