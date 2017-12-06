@@ -24,8 +24,8 @@
 					},</br>
 					CssForDrag: {</br>
 						limitedClass: '限制拖动的Css类名称，isLimitedMove为true时，必填', //if have, limited CSS</br>
-						targetAreaMoveColor: '拖拽时目标区域高亮颜色，默认blue', //if have, target area backgroundColor when moving the tags</br>
-						targetAreaNormalColor: '拖拽结束目标区域恢复原来颜色，默认white', //if have,target area backgroundColor when move over</br>
+						targetAreaMoveClass: '拖拽时目标区域Css类样式，默认无', //if have, target area backgroundColor when moving the tags</br>
+						targetAreaNormalClass: '拖拽结束目标区域Css类样式，默认恢复原样', //if have,target area backgroundColor when move over</br>
 						movingTagClass: '从源区域拖拽时的标签样式，选填', //if have, when a tag is moving, its CSS	</br>			
 					},</br>
 					callbackFn: {</br>
